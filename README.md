@@ -1,7 +1,7 @@
 # Portfolio
 
 ## Quem sou eu?
-Oi, sou o Felipe Cordeiro, estudante de ciência de dados!
+Oi, sou o Felipe Cordeiro, cientista de dados!
 
 Minha experiência profissional começou na Biofísica enquanto tive a oportunidade de trabalhar com pesquisa acadêmica na área de neuroquímica. 
 Durante esse tempo realizei diversas análises de dados dos experimentos que eu realizei e pude ajudar a capacitar novos alunos para realizarem suas atividades laboratoriais e de análises.
